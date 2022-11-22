@@ -1,3 +1,4 @@
+// 定义.vue文件， 不然ts不识别
 /// <reference types="vite/client" />
 
 declare module '*.vue' {
